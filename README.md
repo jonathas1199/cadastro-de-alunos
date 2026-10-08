@@ -1,4 +1,6 @@
-# cadastro-de-alunos
+NOME DOS INTEGRANTES Cauã Pedro Fagundes da Silva - 01884138
+Jonathas Ferreira Alves de Mendonça Barbosa - 01910039
+Pedro Henrique Ismael de Souza - 01867006
 # ==========================================
 # SISTEMA DE CADASTRO DE ALUNOS
 # ==========================================
